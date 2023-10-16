@@ -11,7 +11,8 @@ import SwiftUI
 struct mnexpedicoesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
+                .environment(\.font, Font.custom("Roboto-Regular", size: 14))
         }
     }
 }

@@ -1,0 +1,52 @@
+{
+    "events": [
+            {
+                "id": 1,
+                "title": "Jogo do Fluminense",
+                "description": "Jogo emocionante do fluminense contra o Boca Juniors pela final da COMNEBOL Libertadores!",
+                "photo":"https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2023/10/Fluminense-x-Boca-Juniors-aspect-ratio-512-320.jpg",
+                "price": 180.0,
+                "date": "2023-11-04"
+            },
+            {
+                "id": 2,
+                "title": "Maze Runner 4",
+                "description": "Em um mundo pós-apocalíptico, o jovem Thomas é abandonado em uma comunidade formada por garotos após sua memória ter sido apagada. Logo ele se vê preso em um labirinto, onde será preciso unir forças com outros jovens para que possa escapar.",
+                "photo":"https://images8.alphacoders.com/616/616460.jpg",
+                "price": 40.0,
+                "date": "2023-11-20"
+            },
+            {
+                "id": 3,
+                "title": "Show do Arctic Monkeys",
+                "description": "Mais uma vez, os macacos do artico estarão presentes na cidade maravilhosa. Não perca a chance de ver a sua banda favorita!",
+                "photo":"https://radiocidade.fm/uploads/2022/05/20201211102413_arctic-monkeys.jpg",
+                "price": 450.0,
+                "date": "2023-12-10"
+            },
+            {
+                "id": 4,
+                "title": "Campos do Jordão",
+                "description": "Mais uma vez, os macacos do artico estarão presentes na cidade maravilhosa. Não perca a chance de ver a sua banda favorita!",
+                "photo":"https://radiocidade.fm/uploads/2022/05/20201211102413_arctic-monkeys.jpg",
+                "price": 450.0,
+                "date": "2023-12-10"
+            },
+            {
+                "id": 5,
+                "title": "Show do Arctic Monkeys",
+                "description": "Mais uma vez, os macacos do artico estarão presentes na cidade maravilhosa. Não perca a chance de ver a sua banda favorita!",
+                "photo":"https://radiocidade.fm/uploads/2022/05/20201211102413_arctic-monkeys.jpg",
+                "price": 450.0,
+                "date": "2023-12-10"
+            },
+            {
+                "id": 6,
+                "title": "Show do Arctic Monkeys",
+                "description": "Mais uma vez, os macacos do artico estarão presentes na cidade maravilhosa. Não perca a chance de ver a sua banda favorita!",
+                "photo":"https://radiocidade.fm/uploads/2022/05/20201211102413_arctic-monkeys.jpg",
+                "price": 450.0,
+                "date": "2023-12-10"
+            },
+    ]
+}

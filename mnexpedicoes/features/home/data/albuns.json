@@ -1,0 +1,12 @@
+{
+    "albuns": [
+            {
+                "id": 1,
+                "title": "Lençóis Maranhenses",
+                "photo":"https://i.imgur.com/qgaoeZp.png",
+                "link": "https://www.flickr.com/photos/148352424@N08/albums/72177720311517988",
+                "startDate": "2023-09-02",
+                "endDate": "2023-09-16"
+            }
+    ]
+}
